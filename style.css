@@ -18,7 +18,9 @@ h2 {
     margin-bottom: 100px;
 }
 .half-width {
-    width: 50%;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
     padding-left: 2%;
 }
 .half-width img {
@@ -41,12 +43,12 @@ h2 {
 }
 .experience-section {
     margin-bottom: 100px;
-    background-image: url(img/exp-bg.png);
-    background-repeat: no-repeat;
-    background-position: left;
 }
 .flexible {
     display: flex;
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
 .ex-box {
     width: 40%;
