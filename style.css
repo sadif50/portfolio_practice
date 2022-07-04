@@ -24,7 +24,10 @@ h2 {
     padding-left: 2%;
 }
 .half-width img {
-    width: 80%;
+    width: 100%;
+}
+.my-img {
+    padding-top: 50px;
 }
 .hire-btn {
     background-image: linear-gradient(orange, tomato);
